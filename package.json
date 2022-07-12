@@ -15,10 +15,6 @@
   ],
   "author": "janus j k lu",
   "license": "MIT",
-  "repository": {
-		"type": "git",
-		"url": "github:elemanjan/react-native-bluetooth-escpos-printer"
-	},
   "peerDependencies": {
     "react-native": ">=0.55.4"
   }
